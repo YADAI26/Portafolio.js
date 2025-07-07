@@ -1,3 +1,24 @@
+<div align="center">
+
+**TECNOLOGICO NACIONAL DE MEXICO**  
+**INSTITUTO TECNOLÓGICO DE OAXACA**
+
+Departamento de Ingeniería en Sistemas Computacionales  
+
+Materia: Programación Web  
+"Login Enlace de repositorio"
+
+Profesora: Martínez Nieto Adelina
+
+Estudiante:  
+Salinas Montesinos Cintia Yadai  
+Grupo: VSI  
+
+Oaxaca, Oaxaca, a 07 de julio de 2025.
+
+</div>
+
+
 # 💼 Portafolio Personal - Yadai Montesinos
 
 Sitio web personal que muestra el perfil profesional, habilidades, proyectos y servicios de Yadai Montesinos, estudiante de Ingeniería en Sistemas Computacionales.
@@ -9,6 +30,7 @@ Este portafolio fue desarrollado como parte del curso de Programación Web en el
 ***1. Inicio***
 Propósito:
 Presentación inicial del portafolio con una imagen de fondo y una breve introducción
+
 📌 Tecnologías usadas:
 - Typed.js (para el texto animado).
 - AOS (Animate On Scroll) (efectos al cargar).
@@ -16,6 +38,7 @@ Presentación inicial del portafolio con una imagen de fondo y una breve introdu
 ***2. About (Sobre Mí)***
 Propósito:
 Mostrar información personal, académica y profesional.
+
 📌 Diseño:
 - Layout de dos columnas (imagen + texto).
 - Iconos de Bootstrap para cada ítem.
@@ -23,6 +46,7 @@ Mostrar información personal, académica y profesional.
 ***3. Resumen (Educación & Experiencia)***
 Propósito:
 Mostrar formación académica y experiencia laboral.
+
 📌 Diseño:
 - Timeline visual con puntos de conexión.
 - Dos columnas (educación a la izquierda, experiencia a la derecha).
@@ -30,6 +54,7 @@ Mostrar formación académica y experiencia laboral.
 ***4. Portafolio (Proyectos)***
 Propósito:
 Exhibir proyectos realizados en diferentes categorías.
+
 📌 Tecnologías usadas:
 - Isotope.js (para filtrado interactivo).
 - GLightbox (para visualizar imágenes en pantalla completa).
@@ -38,6 +63,7 @@ Exhibir proyectos realizados en diferentes categorías.
 ***5. Servicios (Oferta Profesional)***
 Propósito:
 Mostrar los servicios que ofrece Yadai.
+
 📌 Diseño:
 - Grid de 3 columnas (en desktop).
 - Iconos representativos para cada servicio.
@@ -46,6 +72,7 @@ Mostrar los servicios que ofrece Yadai.
 ***6. Contacto (Formulario & Ubicación)***
 Propósito:
 Permitir que los visitantes se comuniquen fácilmente.
+
 📌 Tecnologías usadas:
 - Google Maps API (para el mapa interactivo).
   
@@ -57,7 +84,7 @@ Permitir que los visitantes se comuniquen fácilmente.
 - Demostrar competencias en diseño UI/UX, integración de APIs y manejo de bases de datos.
 - Proporcionar un medio de contacto directo para colaboraciones o propuestas.
 
-
+---
 
 ## C. Capturas de pantallas del codigo HTML
 ![image](https://github.com/user-attachments/assets/8a643bf0-7a61-4ecf-a574-6c4b75a5f4b6)
