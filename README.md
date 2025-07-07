@@ -30,5 +30,10 @@
 - secion 1:
 ![Captura de pantalla 2025-07-07 161451](https://github.com/user-attachments/assets/f6507c84-fe09-4b52-a756-b1213dadfb44)
 
+
 - seccion 2:
   ![Captura de pantalla 2025-07-07 161504](https://github.com/user-attachments/assets/56eda2f6-466e-4980-befb-2f7d32a4f4e2)
+
+
+- **Y por ultimo el contacto referente**
+![Captura de pantalla 2025-07-07 161518](https://github.com/user-attachments/assets/28504180-2bf6-4178-aebe-999d240d3817)
