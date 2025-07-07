@@ -1,4 +1,63 @@
-# Portafolio.js
+# 💼 Portafolio Personal - Yadai Montesinos
+
+Sitio web personal que muestra el perfil profesional, habilidades, proyectos y servicios de Yadai Montesinos, estudiante de Ingeniería en Sistemas Computacionales.
+
+---
+## DESCRIPCION DEL PROYECTO:
+Este portafolio fue desarrollado como parte del curso de Programación Web en el Instituto Tecnológico de Oaxaca y tiene como objetivo mostrar mis habilidades, proyectos y experiencia académica como estudiante de Ingeniería en Sistemas Computacionales.
+
+***1. Inicio***
+Propósito:
+Presentación inicial del portafolio con una imagen de fondo y una breve introducción
+📌 Tecnologías usadas:
+- Typed.js (para el texto animado).
+- AOS (Animate On Scroll) (efectos al cargar).
+
+***2. About (Sobre Mí)***
+Propósito:
+Mostrar información personal, académica y profesional.
+📌 Diseño:
+- Layout de dos columnas (imagen + texto).
+- Iconos de Bootstrap para cada ítem.
+
+***3. Resumen (Educación & Experiencia)***
+Propósito:
+Mostrar formación académica y experiencia laboral.
+📌 Diseño:
+- Timeline visual con puntos de conexión.
+- Dos columnas (educación a la izquierda, experiencia a la derecha).
+
+***4. Portafolio (Proyectos)***
+Propósito:
+Exhibir proyectos realizados en diferentes categorías.
+📌 Tecnologías usadas:
+- Isotope.js (para filtrado interactivo).
+- GLightbox (para visualizar imágenes en pantalla completa).
+- Swiper JS (para carrusel en la vista detallada).
+
+***5. Servicios (Oferta Profesional)***
+Propósito:
+Mostrar los servicios que ofrece Yadai.
+📌 Diseño:
+- Grid de 3 columnas (en desktop).
+- Iconos representativos para cada servicio.
+- Efectos hover para mejor interacción
+
+***6. Contacto (Formulario & Ubicación)***
+Propósito:
+Permitir que los visitantes se comuniquen fácilmente.
+📌 Tecnologías usadas:
+- Google Maps API (para el mapa interactivo).
+  
+---
+## 🚀Objetivos del Proyecto
+- Mostrar habilidades técnicas en desarrollo web (HTML, CSS, JavaScript, Bootstrap).
+- Exhibir proyectos académicos (aplicaciones, prácticas, investigaciones).
+- Servir como currículum digital para prácticas profesionales o oportunidades laborales.
+- Demostrar competencias en diseño UI/UX, integración de APIs y manejo de bases de datos.
+- Proporcionar un medio de contacto directo para colaboraciones o propuestas.
+
+
 
 ## C. Capturas de pantallas del codigo HTML
 ![image](https://github.com/user-attachments/assets/8a643bf0-7a61-4ecf-a574-6c4b75a5f4b6)
