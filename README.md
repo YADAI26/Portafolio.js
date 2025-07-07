@@ -1,8 +1,14 @@
 # Portafolio.js
 
 ## C. Capturas de pantallas del codigo HTML
-##  Capturas de pantallas del codigoCSS
-##  Capturas de pantallas del codigo JS
+![image](https://github.com/user-attachments/assets/8a643bf0-7a61-4ecf-a574-6c4b75a5f4b6)
+
+![image](https://github.com/user-attachments/assets/41b0d311-4601-4035-93da-05b07c61ab89)
+
+##  Capturas de pantallas del codigo JS & css
+![image](https://github.com/user-attachments/assets/7a70e265-caa4-42da-9912-a9e338115616)
+
+---
 ## IMAGENES MOSTRADAS DESDE EL NAVEGADOR R:
 **es este podemos ver la plantilla principal el cual nos muestra ciertos menus como** 
 - Inicio
