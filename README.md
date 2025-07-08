@@ -132,8 +132,25 @@ Permitir que los visitantes se comuniquen fácilmente.
 ![Captura de pantalla 2025-07-07 161518](https://github.com/user-attachments/assets/28504180-2bf6-4178-aebe-999d240d3817)
 
 
-🔗  **ENLACE DE ACCESO GitHub PAGES***
+🔗  ***ENLACE DE ACCESO GitHub PAGES***
 https://yadai26.github.io/Portafolio.js/
+
+## Para realiza este portafoio yo utilice una plantilla el cual la puedes conseguir en el sig. Enlace
+en mi personal yo uyilice esta plantilla 
+![image](https://github.com/user-attachments/assets/71bb656a-f0fb-42ac-b6e2-59f67f607d6d)
+
+iPortfolio es una moderna plantilla HTML personal para CV y portafolios. Su diseño es creativo, minimalista y limpio. 
+Se puede utilizar para muchos propósitos, desde portafolios mínimos, diseñadores gráficos, ilustradores, fotógrafos y muchos otros,
+que desean mostrar su trabajo, proyectos, productos, clientes y ofrecer servicios.
+
+Es completamente 
+responsivo y se ve genial en todas las pantallas de dispositivos, brindando la mejor experiencia de usuario al final. 
+Está construido utilizando la última versión de Bootstrap, HTML5, CSS3, jQuery y SASS. 
+Todos los archivos y códigos están bien organizados y bien documentados. 
+Puedes personalizar la plantilla rápida y fácilmente para adaptarla a tus necesidades.
+
+🔗  ***ENLACE DE DONDE SE PUEDEN OBTENER MAS PLANTILLAS***
+https://bootstrapmade.com/
 
 
 
